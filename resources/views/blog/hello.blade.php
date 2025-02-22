@@ -4,3 +4,4 @@
     	<h1>You are {{ $occupation }}</h1>
 	</body>
 </html>
+ 
